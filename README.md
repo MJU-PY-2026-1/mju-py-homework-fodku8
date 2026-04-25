@@ -77,7 +77,8 @@
     * **해결:** 조건식을 `if (category == "FD6" or category == "CE7") and rating == 5:` 와 같이 괄호 `()`를 사용하여 평가 단위를 명확하게 묶어줌으로써 복합 논리식을 의도한 대로 동작시켰습니다.
      
 ### **📁 증빙 자료:**
-  * [2차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
+  * [2주차_AI_협업_대화기록.pdf](https://github.com/user-attachments/files/27079061/2._AI_._.pdf)
+  * [2주차_AI_협업_캡쳐.pdf](https://github.com/user-attachments/files/27079064/2._AI_._.pdf)
   * [2차과제_실행결과.jpg]
 <br>
 
