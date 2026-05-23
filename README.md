@@ -116,7 +116,8 @@
   
 ### **📁 증빙 자료:**
   * [3차_과제_AI_협업_과정.pdf](https://github.com/user-attachments/files/28051062/3._._AI_._.pdf)
-  * <img width="374" height="610" alt="3차과제_실행결과" src="https://github.com/user-attachments/assets/c551eacd-accd-4fe7-8b98-8d20ba78e280" />
+  * <img width="748" height="1220" alt="3차과제_실행결과" src="https://github.com/user-attachments/assets/54a88899-3f3a-47e5-8457-045a93a4168f" />
+
 
 
 
