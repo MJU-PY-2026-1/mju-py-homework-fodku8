@@ -116,9 +116,10 @@
   
 ### **📁 증빙 자료:**
   * [3차_과제_AI_협업_과정.pdf](https://github.com/user-attachments/files/28051062/3._._AI_._.pdf)
-  * <img width="748" height="1220" alt="3차과제_실행결과" src="https://github.com/user-attachments/assets/54a88899-3f3a-47e5-8457-045a93a4168f" />
+  * <img width="688" height="1272" alt="3차과제_실행결과" src="https://github.com/user-attachments/assets/878ed952-1e18-473c-a0c1-0542f3cd5956" />
+
   * ## codespaces 생성 불가로, colab에서 실행한 링크 첨부하겠습니다.
-  * [https://colab.research.google.com/drive/1M68Gc39IgozZ8xJ1JTfaUsbnA8xhUBBJ#scrollTo=YxKx0xYp2ldZ]
+  * [https://colab.research.google.com/drive/1M68Gc39IgozZ8xJ1JTfaUsbnA8xhUBBJ#scrollTo=YxKx0xYp2ldZ](https://colab.research.google.com/drive/1M68Gc39IgozZ8xJ1JTfaUsbnA8xhUBBJ#scrollTo=YxKx0xYp2ldZ)
 
 
 
