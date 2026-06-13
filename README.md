@@ -154,5 +154,7 @@
 ### **📁 증빙 자료:**
   * [4차_AI협업캡쳐.pdf](https://github.com/user-attachments/files/28833595/4._AI.pdf)
 
-  * [4차과제_실행결과.jpg]
+  * <img width="295" height="683" alt="4차과제_실행결과" src="https://github.com/user-attachments/assets/7abb1c7d-84bd-40cb-ae42-dfea061c461f" />
+  * ## codespaces 생성 불가로, colab에서 실행한 링크 첨부하겠습니다.
+  * [https://colab.research.google.com/drive/1cWGYHhAFho3nqM6HwjcEYuziB4yuPWjq?usp=sharing](https://colab.research.google.com/drive/1cWGYHhAFho3nqM6HwjcEYuziB4yuPWjq?usp=sharing)
 <br>
